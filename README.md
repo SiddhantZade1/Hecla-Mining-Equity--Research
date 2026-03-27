@@ -1,36 +1,55 @@
-# Hecla-Mining-Equity--Research
-Sell-side equity research report on Hecla Mining (NYSE: HL) analyzing valuation, AI-driven silver demand, and investment thesis.
-Overview
+# 📊 Hecla Mining (NYSE: HL) – Equity Research
 
-This project presents a comprehensive sell-side equity research analysis of Hecla Mining, a leading U.S. silver producer. The report evaluates the company’s financial performance, industry positioning, and growth potential driven by increasing demand for silver in AI infrastructure.
+## 🔍 Overview
+Comprehensive sell-side equity research analysis of Hecla Mining, a leading U.S. silver producer.  
+Focus on valuation, AI-driven demand for silver, and long-term investment potential.
 
-Investment Summary
-Recommendation: BUY / HOLD
-Target Price: $20
-Upside Potential: ~20–40%
+---
 
-Key Insights
-Identified AI-driven demand for silver as a structural growth catalyst
-Highlighted Hecla as a “hidden AI infrastructure play”
-Analyzed ETF ownership (~24% of float) and institutional flows
-Evaluated policy catalysts (U.S. mining reforms / Genesis Mission)
-Valuation Methodology
-Discounted Cash Flow (DCF)
-Comparable Company Analysis (EV/EBITDA, P/E)
-Net Asset Value (NAV)
+## 📌 Investment Summary
+- **Recommendation:** BUY / HOLD  
+- **Target Price:** $20  
+- **Upside Potential:** ~20–40%  
 
-Risk Factors
-Commodity price volatility
-Policy implementation delays
-ESG and environmental risks
+---
 
- Skills Demonstrated
-Equity Research
-Financial Modeling
-Valuation Techniques
-Scenario & Sensitivity Analysis
-Industry & Macroeconomic Analysis
+## 🧠 Key Insights
+- Identified **AI-driven silver demand** as a structural growth catalyst  
+- Positioned Hecla as a **“hidden AI infrastructure play”**  
+- Analyzed **ETF ownership (~24% of float)** and institutional flows  
+- Evaluated **U.S. mining policy catalysts (Genesis Mission)**  
 
-Files Included
-Equity Research Report (PDF)
-Presentation Deck (PPT) 
+---
+
+## 📈 Valuation Methodology
+- Discounted Cash Flow (DCF)  
+- Comparable Company Analysis (EV/EBITDA, P/E)  
+- Net Asset Value (NAV)  
+
+---
+
+## ⚠️ Risk Factors
+- Commodity price volatility  
+- Policy implementation delays  
+- ESG & environmental risks  
+
+---
+
+## 🛠️ Skills Demonstrated
+- Equity Research  
+- Financial Modeling  
+- Valuation Techniques  
+- Scenario & Sensitivity Analysis  
+- Industry & Macroeconomic Analysis  
+
+---
+
+## 📎 Files Included
+- 📄 Hecla_Equity_Research_Report.pdf  
+- 📊 Hecla_Stock_Pitch_Presentation.pptx  
+- 📈 Financial_Model.xlsx  
+
+---
+
+## 🚀 Key Takeaway
+Hecla Mining represents a **strategic play on AI infrastructure**, with silver acting as a critical component in high-performance computing and data centers.
